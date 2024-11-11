@@ -3,14 +3,14 @@ This is School group project for class introduction to software development.
 
 ## Idea: 
 Design/Tyyli
-- Raaputus-/ArpaKelenteri
-- Luukun voi avata kun pieni pulma on vastattu esim. Joulupikin vaimon nimi?
+- Raaputus-/Arpakalenteri
+- Luukun voi avata kun pieni pulma on vastattu esim. Joulupukin vaimon nimi?
 - Luukkujen sisällä esimerkiksi piniä videoita
 - Extrapeli
 - Jouluinen teema
   
 Toiminnallisuus
-- aukeaa kirjamaisesti
+- Aukeaa kirjamaisesti
 - Raavutettavat luukut
 - Luukut ovat satunnaisissa paikoissa
 - Kun 60-80% luukusta raaputettu luukku aukeaa kokonaan.
