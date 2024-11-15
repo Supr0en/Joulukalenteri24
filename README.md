@@ -14,3 +14,5 @@ Toiminnallisuus
 - Raavutettavat luukut
 - Luukut ovat satunnaisissa paikoissa
 - Kun 60-80% luukusta raaputettu luukku aukeaa kokonaan.
+
+clone command `git clone https://github.com/Supr0en/Joulukalenteri24`
