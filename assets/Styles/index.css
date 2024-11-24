@@ -4,12 +4,63 @@
    box-sizing: 0;
 }
 
+body {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   margin: 0;
+}
+
 #kortti {
+   position: relative;
    min-height: 80vh;
+   min-width: 80vw;
+   perspective: 5000px;
+   transform: translateX(30%)
+}
+
+#cover {
+   position: absolute;
+   min-height: 100%;
    min-width: 40%;
-   background-image: url('../Images/etusivu.jpg');
+   background-image: url("../Images/etusivu.jpg");
    background-repeat: no-repeat;
    background-position: center;
    background-size: cover;
-   border: 2px dotted blue;
+   transform-origin: left;
+   z-index: 2;
+}
+
+#back {
+   position: absolute;
+   min-height: 100%;
+   min-width: 40%;
+   background: green;
+}
+
+.move {
+   animation: moveCard 1s ease forwards;
+}
+.open {
+   animation: openCard 2s ease forwards;
+   margin-left: 20%;
+}
+
+@keyframes moveCard {
+   0% {
+      transform: translateX(0%);
+   }
+   100% {
+      transform: translateX(50%);
+   }
+}
+
+@keyframes openCard {
+   0% {
+      transform: rotateY(0deg);
+   }
+   100% {
+      transform: rotateY(-180deg);
+   }
 }
