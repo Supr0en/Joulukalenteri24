@@ -21,9 +21,12 @@ body {
 }
 
 #cover {
+   display: grid;
+   grid-template-columns: repeat(auto-fill, 40px);
+   grid-auto-rows: 40px;
    position: absolute;
    min-height: 100%;
-   min-width: 40%;
+   min-width: 60%;
    background-image: url("../Images/etusivu.jpg");
    background-repeat: no-repeat;
    background-position: center;
