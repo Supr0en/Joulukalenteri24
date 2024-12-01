@@ -21,12 +21,9 @@ body {
 }
 
 #cover {
-   display: grid;
-   grid-template-columns: repeat(auto-fill, 50px);
-   grid-auto-rows: 40px;
    position: absolute;
    min-height: 100%;
-   min-width: 60%;
+   min-width: 40%;
    background-image: url("../Images/etusivu.jpg");
    background-repeat: no-repeat;
    background-position: center;
@@ -36,13 +33,33 @@ body {
 }
 
 #back {
-   display: grid;
-   grid-template-columns: repeat(auto-fill, 50px);
-   grid-auto-rows: 40px;
    position: absolute;
    min-height: 100%;
-   min-width: 60%;
-   background: green;
+   min-width: 40%;
+   background-image: url("../Images/sisapuoli.jpg");
+   object-fit: cover;
+   background-position: right;
+   background-size: 200%;
+}
+
+.hatchContainer {
+   display: grid;
+   grid-template-columns: repeat(auto-fill, 60px);
+   grid-auto-rows: 40px;
+   position: absolute;
+   right: 10%;
+   min-height: 80vh;
+   min-width: 80vw;
+   perspective: 5000px;
+   z-index: 2;
+   display: none;
+}
+
+.afterAnimation {
+   background-image: url("../Images/leftside.png") !important;
+   object-fit: cover;
+   background-position: left;
+   background-size: 200% auto;
 }
 
 .move {
