@@ -1,6 +1,6 @@
 [
-   { "day": 1, "challenge": "Joulumuarin nimi?"},
-   { "day": 2, "challenge": "Joulupukin porojen nimet?"},
+   { "day": 1, "challenge": "Mikä on joulumuorin nimi?"},
+   { "day": 2, "challenge": "Mitkä ovat joulupukin porojen nimet?"},
    { "day": 3, "challenge": "Mistä Frosty lumiukon nenä on tehty?"},
    { "day": 4, "challenge": "Milloin Jingle bells kirjoitettiin?"}
    { "day": 5, "challenge": "Miten sanotaan (Hyvää Joulua!) espanjaksi?"}
