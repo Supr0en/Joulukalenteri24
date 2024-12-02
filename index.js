@@ -36,7 +36,7 @@ function setDevMode(currentDay) {
 function dateCheak(currentDay) {
    let hatches = document.querySelectorAll(".hatch");
    hatches.forEach((hatch) => {
-      if (hatch.id < currentDay) {
+      if (hatch.id <= currentDay) {
          hatch.style.background =
             "repeating-linear-gradient(45deg, #606dbc, #606dbc 10px, #465298 10px, #465298 20px)";
       }
