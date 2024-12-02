@@ -2,5 +2,25 @@
    { "day": 1, "challenge": "Joulumuarin nimi?"},
    { "day": 2, "challenge": "Joulupukin porojen nimet?"},
    { "day": 3, "challenge": "Mistä Frosty lumiukon nenä on tehty?"},
-   { "day": 4, "challenge": "Milloin Jinggel bells kirjoitettiin?"}
+   { "day": 4, "challenge": "Milloin Jingle bells kirjoitettiin?"}
+   { "day": 5, "challenge": "Miten sanotaan (Hyvää Joulua!) espanjaksi?"}
+   { "day": 6, "challenge": "Mikä on maailman tunnetuin joululaulu?"}
+   { "day": 7, "challenge": "Kuinka korkea on maailman suurin joulukuusi ja missä se sijaitsee?"}
+   { "day": 8, "challenge": "Kuinka monta joulukorttia lähetetään vuosittain maailmanlaajuisesti?"}
+   { "day": 9, "challenge": "Minkä eläimen nimi on Petteri Punakuono?"}
+   { "day": 10, "challenge": "Mitä usein syödään joulupöydässä Suomessa?"}
+   { "day": 11, "challenge": "Mikä on englanniksi joulupukki?"}
+   { "day": 12, "challenge": "Mikä eläin vetää joulupukin rekeä?"}
+   { "day": 13, "challenge": "Minkä värinen on joulupukin asu?"}
+   { "day": 14, "challenge": "Missä joulupukki asuu?"}
+   { "day": 15, "challenge": "Mikä on valkoinen ja sataa usein jouluna?"}
+   { "day": 16, "challenge": "Mikä on joulupukin apureiden nimi?"}
+   { "day": 17, "challenge": "Mikä eläin nukkuu talviunta jouluna?"}
+   { "day": 18, "challenge": "Mikä on joulupukin kulkuneuvon nimi?"}
+   { "day": 19, "challenge": "Mikä on suurin lahja, jonka voi antaa jouluna?"}
+   { "day": 20, "challenge": "Mikä kulkee joulupukin reessä ja kilisee?"}
+   { "day": 21, "challenge": "Mitä mausteita käytetään piparkakuissa?"}
+   { "day": 22, "challenge": "Mikä suosittu elokuva kertoo pojasta, joka jää yksin kotiin jouluna?"}
+   { "day": 23, "challenge": "Mikä on suosittu talvinen juoma, jossa voi olla vaahtokarkkeja?"}
+   { "day": 24, "challenge": "Mikä jouluruoka on tehty riisistä ja syödään usein aamupalaksi?"}
 ]
